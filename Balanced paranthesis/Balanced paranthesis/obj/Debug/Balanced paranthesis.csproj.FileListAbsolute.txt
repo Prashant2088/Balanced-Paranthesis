@@ -1,0 +1,6 @@
+c:\users\1019884\documents\visual studio 2013\Projects\Balanced paranthesis\Balanced paranthesis\bin\Debug\Balanced paranthesis.exe.config
+c:\users\1019884\documents\visual studio 2013\Projects\Balanced paranthesis\Balanced paranthesis\bin\Debug\Balanced paranthesis.exe
+c:\users\1019884\documents\visual studio 2013\Projects\Balanced paranthesis\Balanced paranthesis\bin\Debug\Balanced paranthesis.pdb
+c:\users\1019884\documents\visual studio 2013\Projects\Balanced paranthesis\Balanced paranthesis\obj\Debug\Balanced paranthesis.csprojResolveAssemblyReference.cache
+c:\users\1019884\documents\visual studio 2013\Projects\Balanced paranthesis\Balanced paranthesis\obj\Debug\Balanced paranthesis.exe
+c:\users\1019884\documents\visual studio 2013\Projects\Balanced paranthesis\Balanced paranthesis\obj\Debug\Balanced paranthesis.pdb
